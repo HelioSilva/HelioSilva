@@ -1,7 +1,7 @@
 <h2 align="center">Olá 👋, Sou Helio Silva</h2>
 <h4 align="center">Desenvolvimento de sistemas é minha paixão, amo codificar e criar soluções para diversos problemas. Graduando em Sistemas para Internet, busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e limpos.</h4>
 
-<p></p>
+<img src="https://komarev.com/ghpvc/?username=heliosilva" alt="heliosilva" />
 
 <h3 align="center">Mídias Sociais</h3>
 <p align="center">
@@ -21,7 +21,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliosilva&l
 </br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=heliosilva" alt="heliosilva" />
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=heliosilva&show_icons=true" alt="heliosilva" />
 </div>
 
