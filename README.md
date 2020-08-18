@@ -2,8 +2,6 @@
 <h4 align="center">Desenvolvimento de sistemas é minha paixão, amo codificar e criar soluções para diversos problemas. Graduando em Sistemas para Internet, busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e limpos.</h4>
 
 
-![Alt Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
 
 <img src="https://komarev.com/ghpvc/?username=heliosilva" alt="heliosilva" />
 
