@@ -15,11 +15,16 @@
 
 </br>
 </br>
-</br>
 
+<div align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heliosilva" alt="heliosilva" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heliosilva&show_icons=true" alt="heliosilva" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=heliosilva&show_icons=true" alt="heliosilva" /></p>
+
+</div>
+
+
+
 
 
