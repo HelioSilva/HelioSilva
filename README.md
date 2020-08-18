@@ -2,6 +2,12 @@
 <h4 align="center">Desenvolvimento de sistemas é minha paixão, amo codificar e criar soluções para diversos problemas. Graduando em Sistemas para Internet, busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e limpos.</h4>
 
 
+<p align="center">
+<a href="https://linkedin.com/in/www.linkedin.com/in/dev-helio-filho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dev-helio-filho" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbqsmwgxuwtsarb9nxtzyjw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucbqsmwgxuwtsarb9nxtzyjw" height="30" width="30" /></a>
+</p>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heliosilva" alt="heliosilva" /> </p>
@@ -12,7 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heliosilva&show_icons=true" alt="heliosilva" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dev-helio-filho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dev-helio-filho" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbqsmwgxuwtsarb9nxtzyjw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucbqsmwgxuwtsarb9nxtzyjw" height="30" width="30" /></a>
-</p>
+
