@@ -1,7 +1,8 @@
 <h2 align="center">Olá 👋, Sou Helio Silva</h2>
 <h4 align="center">Desenvolvimento de sistemas é minha paixão, amo codificar e criar soluções para diversos problemas. Graduando em Sistemas para Internet, busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e limpos.</h4>
 
-<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+
+![Alt Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 
 <img src="https://komarev.com/ghpvc/?username=heliosilva" alt="heliosilva" />
