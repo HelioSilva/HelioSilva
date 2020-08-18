@@ -3,7 +3,7 @@
 
 <h3 align="center">Mídias Sociais</h3>
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dev-helio-filho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dev-helio-filho" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/dev-helio-filho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dev-helio-filho" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbqsmwgxuwtsarb9nxtzyjw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucbqsmwgxuwtsarb9nxtzyjw" height="30" width="30" /></a>
 </p>
 
