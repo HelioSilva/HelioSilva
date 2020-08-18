@@ -1,6 +1,9 @@
 <h2 align="center">Olá 👋, Sou Helio Silva</h2>
 <h3 align="center">Desenvolvimento de sistemas é minha paixão, amo codificar e criar soluções para diversos problemas. Graduando em Sistemas para Internet, busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e limpos.</h3>
 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heliosilva" alt="heliosilva" /> </p>
 
 - 🌱 I’m currently learning **NodeJS , ReactJS , React Native**
