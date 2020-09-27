@@ -1,5 +1,7 @@
 <div align="center"><h2>Olá 👋, Sou Helio Silva</h2><a href="https://linkedin.com/in/dev-helio-filho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dev-helio-filho" height="30" width="30" /></a> <a href="https://www.youtube.com/channel/UCbqsmwGXuwtSaRB9nxtzyjw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCbqsmwGXuwtSaRB9nxtzyjw" height="30" width="30" /></a></div>
 
+<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+
 <h4 align="center">Desenvolvimento de sistemas é minha paixão, amo codificar e criar soluções para diversos problemas. Graduando em Sistemas para Internet, busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e limpos.</h4>
 
 <h3 align="center" style="color:#f4e">Skills</h3>
