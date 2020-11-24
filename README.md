@@ -15,9 +15,15 @@
 <img align="left"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliosilva&layout=compact&hide=html" alt="heliosilva" />
 
-<img align="left" src="https://komarev.com/ghpvc/?username=heliosilva" alt="heliosilva" />
+
 </div>
 
+</br>
+
+
+<div display="flex" flex-direction="row" align="center">
+<img align="left" src="https://komarev.com/ghpvc/?username=heliosilva" alt="heliosilva" />
+</div>
 
 
 
