@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
-<h4 align="center">Desenvolvimento de sistemas é minha paixão, amo codificar e criar soluções para diversos problemas. Graduando em Sistemas para Internet, busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e limpos.</h4>
+<h4 align="center">Desenvolvimento de sistemas é minha paixão, amo codificar e criar soluções para diversos problemas. Graduando em Sistemas para Internet, busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e mais limpos que os anteriores. O aprendizado é constante e a cada passo descubro que evoluí e também descubro o quanto posso melhorar!</h4>
 
 </br>
 </br>
